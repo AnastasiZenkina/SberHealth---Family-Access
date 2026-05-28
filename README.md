@@ -94,3 +94,5 @@ INSERT INTO profile (full_name, date_of_birth) VALUES ('Маша Иванова'
 
 Показать всех членов группы
 `curl "http://localhost:8080/api/family/groups/1/members"`
+
+Pet-проект, вдохновлённый пользовательским опытом в СберЗдоровье. Выполнен в учебных целях, не является аффилированным с ПАО Сбербанк
